@@ -7,7 +7,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-git/go-billy/v5 v5.2.0 // indirect
-	github.com/go-git/go-git/v5 v5.3.0
+	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
